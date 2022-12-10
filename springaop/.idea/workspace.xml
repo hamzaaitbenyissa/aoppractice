@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c71f51-fefa-431c-a6cd-8358b77cc225" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/log.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/aspects/FirstAspect.aj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/aspects/LogginAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/aspects/PatchRetraitAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/aspects/SecondAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/aspects/SecurityAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/metier/Compte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/metier/IMetierBanque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/metier/MetierBanqueImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/test/Application1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOPAspectJ/src/main/java/com/benyissa/test/Application2.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e5c71f51-fefa-431c-a6cd-8358b77cc225" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -51,25 +33,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.benyissa.aspects" />
       <recent name="com.benyissa.services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.benyissa.aspects" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="com.benyissa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.benyissa.Main" />
@@ -99,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670662412582</updated>
       <workItem from="1670662414269" duration="515000" />
-      <workItem from="1670663554878" duration="1641000" />
+      <workItem from="1670663554878" duration="5667000" />
     </task>
     <servers />
   </component>

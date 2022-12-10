@@ -12,7 +12,7 @@ import java.util.Date;
 @Aspect
 @EnableAspectJAutoProxy
 public class LoggingAspect {
-    @Around("execution(* com.benyissa..process(..))")
+    @Around("@annotation(com.benyissa.aspects.Log)")
     public Object log(ProceedingJoinPoint joinPoint) throws Throwable {
         Object result = null;
         Date t1 = new Date();
