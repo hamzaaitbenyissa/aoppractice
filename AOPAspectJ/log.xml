@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-08T23:01:22.242654Z</date>
+  <millis>1670540482242</millis>
+  <nanos>654000</nanos>
+  <sequence>0</sequence>
+  <logger>com.benyissa.aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>com.benyissa.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>----------------------------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:01:22.254649300Z</date>
+  <millis>1670540482254</millis>
+  <nanos>649300</nanos>
+  <sequence>1</sequence>
+  <logger>com.benyissa.aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>com.benyissa.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Avant execution de la methode void com.benyissa.metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-12-08T23:01:22.254649300Z</date>
+  <millis>1670540482254</millis>
+  <nanos>649300</nanos>
+  <sequence>2</sequence>
+  <logger>com.benyissa.aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>com.benyissa.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>apress execution de la methode void com.benyissa.metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-12-08T23:01:22.255654800Z</date>
+  <millis>1670540482255</millis>
+  <nanos>654800</nanos>
+  <sequence>3</sequence>
+  <logger>com.benyissa.aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>com.benyissa.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Duree d'execution de la methode :13</message>
+</record>
+<record>
+  <date>2022-12-08T23:01:22.255654800Z</date>
+  <millis>1670540482255</millis>
+  <nanos>654800</nanos>
+  <sequence>4</sequence>
+  <logger>com.benyissa.aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>com.benyissa.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>----------------------------------------------------</message>
+</record>
+</log>
